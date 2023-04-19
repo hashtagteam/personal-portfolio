@@ -66,9 +66,9 @@ const Contact = () => {
       /> */}
       {/* information */}
       <div className=" ml-5 sm:ml-16 pl-2 sm:text-[20px] mb-5 text-[10px] text-white border-l-2 border-l-[#EC2626]">
-        <p>+95 942 521 2523</p>
-        <p>thantzinmin667@gmail.com</p>
-        <p>Yangon,Tamwe,Myit Thar Nyout</p>
+        <p>+95 975 638 4039</p>
+        <p>minnthetkoko@gmail.com</p>
+        <p>Yangon,Hling,Thri Mying</p>
       </div>
     </>
   );

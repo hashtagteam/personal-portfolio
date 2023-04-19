@@ -45,9 +45,9 @@ const About = () => {
 
           <div className="sm:w-3/5 text-white mb-5">
             <h2 className="sm:text-3xl text-2xl font-semibold ">
-              <p>-ThantZinMin</p>
+              <p>MinnThetKoKo</p>
               <ReactTyped
-                strings={["Web Developer", "Front-end", "Back-end"]}
+                strings={["Web Developer", "Front-end", "Back-end", "UI/UX"]}
                 typeSpeed={120}
                 backSpeed={70}
                 loop
@@ -68,10 +68,10 @@ const About = () => {
               <p>CALL</p>
             </div>
             <div className="flex flex-col sm:gap-5 gap-2  text-sm sm:text-xl">
-              <p>21</p>
-              <p>Katha</p>
-              <p>thantzinmin667@gmail.com</p>
-              <p>+95 942 521 2523</p>
+              <p>17</p>
+              <p>Pakokku</p>
+              <p>minnthetkoko@gmail.com</p>
+              <p>+95 975 638 4039</p>
             </div>
           </div>
         </div>

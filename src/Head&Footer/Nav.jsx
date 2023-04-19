@@ -10,7 +10,7 @@ const Nav = () => {
             src={profile}
             alt=""
           />
-          <h2 className=" hidden sm:block font-bold sm:text-3xl">Thant Zin Min</h2>
+          <h2 className=" hidden sm:block font-bold sm:text-3xl">MinnThetKoKo</h2>
           <div className="sm:flex sm:items-center sm:flex-col flex text-[10px] font-bold sm:text-[20px] gap-1 sm:gap-5">
             <p>HOME</p>
             <p>ABOUT</p>

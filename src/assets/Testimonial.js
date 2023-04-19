@@ -12,19 +12,19 @@ export const TesData = [
     {
         id:2,
         img:communication,
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum di",
+        text:"Communication is important because it is the primary way that people exchange information, ideas, and feelings. Effective communication is crucial in both personal and professional relationships, and it plays a vital role in all aspects of life, from maintaining healthy personal relationships to building successful businesses.",
         title:"COMMUNICATION"
     },
     {
         id:3,
         img:criticalThinking,
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum di",
+        text:"Critical thinking is an essential skill for programmers because programming involves problem-solving and making decisions based on evidence and reasoning. Programmers need to be able to analyze problems, evaluate different solutions, and make informed decisions about the most effective approach to solve a particular problem.",
         title:"CRITICAL THINKING"
     },
     {
         id:4,
         img:research,
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum di",
+        text:"Research skills are important in many different fields and professions, including education, business, healthcare, and science.",
         title:"RESEARCH SKILL"
     },
 ]
